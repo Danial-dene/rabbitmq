@@ -1,0 +1,17 @@
+E:\Projects\Sample\TestRabbitMQ\obj\Debug\net7.0\TestRabbitMQ.csproj.AssemblyReference.cache
+E:\Projects\Sample\TestRabbitMQ\obj\Debug\net7.0\TestRabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Sample\TestRabbitMQ\obj\Debug\net7.0\TestRabbitMQ.AssemblyInfoInputs.cache
+E:\Projects\Sample\TestRabbitMQ\obj\Debug\net7.0\TestRabbitMQ.AssemblyInfo.cs
+E:\Projects\Sample\TestRabbitMQ\obj\Debug\net7.0\TestRabbitMQ.csproj.CoreCompileInputs.cache
+E:\Projects\Sample\TestRabbitMQ\bin\Debug\net7.0\TestRabbitMQ.exe
+E:\Projects\Sample\TestRabbitMQ\bin\Debug\net7.0\TestRabbitMQ.deps.json
+E:\Projects\Sample\TestRabbitMQ\bin\Debug\net7.0\TestRabbitMQ.runtimeconfig.json
+E:\Projects\Sample\TestRabbitMQ\bin\Debug\net7.0\TestRabbitMQ.dll
+E:\Projects\Sample\TestRabbitMQ\bin\Debug\net7.0\TestRabbitMQ.pdb
+E:\Projects\Sample\TestRabbitMQ\bin\Debug\net7.0\RabbitMQ.Client.dll
+E:\Projects\Sample\TestRabbitMQ\obj\Debug\net7.0\TestRabbitMQ.csproj.CopyComplete
+E:\Projects\Sample\TestRabbitMQ\obj\Debug\net7.0\TestRabbitMQ.dll
+E:\Projects\Sample\TestRabbitMQ\obj\Debug\net7.0\refint\TestRabbitMQ.dll
+E:\Projects\Sample\TestRabbitMQ\obj\Debug\net7.0\TestRabbitMQ.pdb
+E:\Projects\Sample\TestRabbitMQ\obj\Debug\net7.0\TestRabbitMQ.genruntimeconfig.cache
+E:\Projects\Sample\TestRabbitMQ\obj\Debug\net7.0\ref\TestRabbitMQ.dll

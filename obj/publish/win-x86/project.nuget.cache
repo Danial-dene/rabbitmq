@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Enn3N5SRXxZzONY+USaaoqeINZ9+82Vw2HBe0BLWcIuAWL8XrGmC3OMQAf4avCoN7jP8H4zt6g++VQco2DU8Cw==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Sample\\TestRabbitMQ\\TestRabbitMQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\intra\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\intra\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\intra\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
+    "C:\\Users\\intra\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\7.0.5\\microsoft.netcore.app.runtime.win-x86.7.0.5.nupkg.sha512",
+    "C:\\Users\\intra\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\7.0.5\\microsoft.windowsdesktop.app.runtime.win-x86.7.0.5.nupkg.sha512",
+    "C:\\Users\\intra\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\7.0.5\\microsoft.aspnetcore.app.runtime.win-x86.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
